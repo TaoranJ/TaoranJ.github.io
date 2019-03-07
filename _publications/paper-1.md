@@ -2,7 +2,6 @@
 title: "Multi-task Learning for Transit Service Disruption Detection"
 collection: publications
 permalink: /publication/paper-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 venue: '2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8508799'
 ---
