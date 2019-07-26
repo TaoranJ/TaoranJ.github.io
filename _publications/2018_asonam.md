@@ -1,6 +1,7 @@
 ---
 title: "Multi-task Learning for Transit Service Disruption Detection"
 collection: publications
+author: "Taoran Ji, Kaiqun Fu, Nathan Self, Chang-Tien Lu, and Naren Ramakrishnan"
 permalink: /publication/2018_asonam
 date: 2018-08-28
 venue: 'IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)'

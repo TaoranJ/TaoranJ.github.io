@@ -1,6 +1,7 @@
 ---
 title: "Feature Driven Learning Framework for Cybersecurity Event Detection"
 collection: publications
+author: "Taoran Ji, Xuchao Zhang, Nathan Self, Kaiqun Fu, Chang-Tien Lu, and Naren Ramakrishnan"
 permalink: /publication/2019_asonam
 date: 2019-08-28
 venue: 'IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)'
