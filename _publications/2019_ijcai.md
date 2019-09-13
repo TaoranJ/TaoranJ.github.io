@@ -16,10 +16,24 @@ Abstract-Modeling and forecasting forward citations to a patent is a central tas
 
 Recommended citation:
 ```json
-@inproceedings{ji2019patent,
-    title={Feature Driven Learning Framework for Cybersecurity Event Detection},
-    author={Ji, Taoran and Chen, Zhiqian and Nathan, Self and Fu, Kaiqun and Lu, Chang-Tien and Ramakrishnan, Naren},
-    booktitle={IJCAI},
-    year={2019},
+@inproceedings{DBLP:conf/ijcai/JiCSFLR19,
+    author    = {Taoran Ji and
+               Zhiqian Chen and
+               Nathan Self and
+               Kaiqun Fu and
+               Chang{-}Tien Lu and
+               Naren Ramakrishnan},
+    title     = {Patent Citation Dynamics Modeling via Multi-Attention Recurrent Networks},
+    booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on
+                 Artificial Intelligence, {IJCAI} 2019, Macao, China, August 10-16,
+                 2019},
+    pages     = {2621--2627},
+    year      = {2019},
+    crossref  = {DBLP:conf/ijcai/2019},
+    url       = {https://doi.org/10.24963/ijcai.2019/364},
+    doi       = {10.24963/ijcai.2019/364},
+    timestamp = {Tue, 20 Aug 2019 16:18:18 +0200},
+    biburl    = {https://dblp.org/rec/bib/conf/ijcai/JiCSFLR19},
+    bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
