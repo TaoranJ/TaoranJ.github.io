@@ -55,8 +55,16 @@
     border-bottom: 1px solid $border-color;
   }
 
-  p, li, dl {
+  /*p, li, dl {
     font-size: 1em;
+  }*/
+   
+  p {
+    font-size: $type-size-6;
+  }
+   
+  li, dl {
+     font-size: $type-size-7;
   }
 
   /* paragraph indents */
