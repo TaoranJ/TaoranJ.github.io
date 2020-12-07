@@ -15,51 +15,51 @@ I am a Ph.D. Candidate, working with [Prof. Chang-Tien Lu](http://people.cs.vt.e
 Forecasting of Scientific Publications</kbd>**\\
 <ins>Taoran Ji</ins>, Nathan self, Kaiqun Fu, Zhiqian Chen, Naren Ramakrishnan,
 and Chang-Tien Lu\\
-Proceedings of *The 35th AAAI Conference on Artificial Intelligence (AAAI)
+Proceedings of *The 35th AAAI Conference on Artificial Intelligence (AAAI),
 2021*
 * `IJCAI` **<kbd>Patent Citation Dynamics Modeling via Multi-Attention
 Recurrent Networks</kbd>**\\
 <ins>Taoran Ji</ins>, Zhiqian Chen, Nathan Self, Kaiqun Fu, Chang-Tien Lu,
 and Naren Ramakrishnan\\
 Proceedings of *The 28th International Joint Conference on Artificial
-Intelligence (IJCAI) 2019*
+Intelligence (IJCAI), 2019*
 * `ASONAM` **<kbd>Feature Driven Learning Framework for Cybersecurity Event
 Detection</kbd>**\\
 <ins>Taoran Ji</ins>, Xuchao Zhang, Nathan Self, Kaiqun Fu, Chang-Tien Lu,
 and Naren Ramakrishnan\\
 Proceedings of *The 2019 IEEE/ACM International Conference on Advances in
-Social Networks Analysis and Mining (ASONAM) 2019*
+Social Networks Analysis and Mining (ASONAM), 2019*
 * `SIGSPATIAL` **<kbd>TITAN: A Spatiotemporal Feature Learning Framework for
 Traffic Incident Duration Prediction</kbd>**\\
 Kaiqun Fu, <ins>Taoran Ji</ins>, Liang Zhao, and Chang-Tien Lu\\
 Proceedings of *The 27th ACM SIGSPATIAL International Conference on Advances in
-Geographic Information Systems (SIGSPATIAL) 2019*
+Geographic Information Systems (SIGSPATIAL), 2019*
 * `SIMBig` **<kbd>Collect Ethically: Reduce Bias in Twitter Datasets</kbd>**\\
 Lulwah Alkulaib, Abdulaziz Alhamadani, <ins>Taoran Ji</ins>, and
 Chang-Tien Lu\\
-Proceedings of The Annual International Symposium on Information Management and
-Big Data (SIMBig) 2019\\
+Proceedings of *The Annual International Symposium on Information Management and
+Big Data (SIMBig), 2019*
 * `SIGSPATIAL Special` **<kbd>Batman or the joker? The powerful urban computing
 and its ethics issues</kbd>**\\
 Kaiqun Fu, Abdulaziz Alhamadani, <ins>Taoran Ji</ins>, and Chang-Tien Lu\\
-*SIGSPATIAL Special 11, no. 2: 16-25 2019*
+*SIGSPATIAL Special 11, no. 2: 16-25, 2019*
 * `ASONAM` **<kbd>Multi-task Learning for Transit Service Disruption
 Detection</kbd>**\\
 <ins>Taoran Ji</ins>, Kaiqun Fu, Nathan Self, Chang-Tien Lu, and
 Naren Ramakrishnan\\
 Proceedings of *The 2018 IEEE/ACM International Conference on Advances in Social
-Networks Analysis and Mining (ASONAM) 2018*
+Networks Analysis and Mining (ASONAM), 2018*
 * `IAAI` **<kbd>Determining relative airport threats from news and social
 media</kbd>**\\
 <ins>Taoran Ji</ins>, Rupinder Paul Khandpur, Yue Ning, Liang Zhao,
 Chang-Tien Lu, Erik R. Smith, Christopher Adams, and Naren Ramakrishnan\\
 Proceedings of *The 29th Annual Conference on Innovative Applications of
-Artificial Intelligence (IAAI) 2017*
+Artificial Intelligence (IAAI), 2017*
 * `CIKM` **<kbd>Crowdsourcing cybersecurity: Cyber attack detection using
 social medi</kbd>**\\
 Rupinder Paul Khandpur, <ins>Taoran Ji</ins>, Steve Jan, Gang Wang,
 Chang-Tien Lu, and Naren Ramakrishnan\\
 Proceedings of *The 2017 ACM on Conference on Information and Knowledge
-Management (CIKM) 2017*
+Management (CIKM), 2017*
 
 #### [Full List of Papers](https://taoranj.github.io/publications/)
