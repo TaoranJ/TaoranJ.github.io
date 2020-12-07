@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Taoran Ji"
 title_separator          : "-"
 name                     : &name "Taoran Ji"
-description              : &description "I'm a Ph.D. student, working at Discovery Analytics Center in Virginia Tech."
+description              : &description "I'm a Ph.D. Candidate, working at Discovery Analytics Center in Virginia Tech."
 url                      : https://TaoranJ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TaoranJ/TaoranJ.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Taoran Ji"
   avatar           : "profile.png"
-  bio              : "I'm a Ph.D. student, working at Discovery Analytics Center in Virginia Tech."
+  bio              : "I'm a Ph.D. Candidate, working in Discovery Analytics Center at Virginia Tech."
   location         : 
   employer         :
   pubmed           : 
