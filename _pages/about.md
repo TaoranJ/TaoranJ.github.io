@@ -39,24 +39,24 @@ Lulwah Alkulaib, Abdulaziz Alhamadani, <ins>Taoran Ji</ins>, and
 Chang-Tien Lu\\
 Proceedings of *The Annual International Symposium on Information Management and
 Big Data (SIMBig), 2019*
-* `SIGSPATIAL Special` **<kbd>Batman or the joker? The powerful urban computing
-and its ethics issues</kbd>**\\
+* `ACM SIGSPATIAL Special` **<kbd>Batman or the Joker? The Powerful Urban Computing
+and Its Ethics Issues</kbd>**\\
 Kaiqun Fu, Abdulaziz Alhamadani, <ins>Taoran Ji</ins>, and Chang-Tien Lu\\
 *SIGSPATIAL Special 11, no. 2: 16-25, 2019*
-* `ASONAM` **<kbd>Multi-task Learning for Transit Service Disruption
+* `ASONAM` **<kbd>Multi-Task Learning for Transit Service Disruption
 Detection</kbd>**\\
 <ins>Taoran Ji</ins>, Kaiqun Fu, Nathan Self, Chang-Tien Lu, and
 Naren Ramakrishnan\\
 Proceedings of *The 2018 IEEE/ACM International Conference on Advances in Social
 Networks Analysis and Mining (ASONAM), 2018*
-* `IAAI` **<kbd>Determining relative airport threats from news and social
-media</kbd>**\\
+* `AAAI-IAAI` **<kbd>Determining Relative Airport Threats from News and Social
+Media</kbd>**\\
 <ins>Taoran Ji</ins>, Rupinder Paul Khandpur, Yue Ning, Liang Zhao,
 Chang-Tien Lu, Erik R. Smith, Christopher Adams, and Naren Ramakrishnan\\
 Proceedings of *The 29th Annual Conference on Innovative Applications of
-Artificial Intelligence (IAAI), 2017*
-* `CIKM` **<kbd>Crowdsourcing cybersecurity: Cyber attack detection using
-social medi</kbd>**\\
+Artificial Intelligence (AAAI-IAAI), 2017*
+* `CIKM` **<kbd>Crowdsourcing Cybersecurity: Cyber Attack Detection Using
+Social Media</kbd>**\\
 Rupinder Paul Khandpur, <ins>Taoran Ji</ins>, Steve Jan, Gang Wang,
 Chang-Tien Lu, and Naren Ramakrishnan\\
 Proceedings of *The 2017 ACM on Conference on Information and Knowledge
