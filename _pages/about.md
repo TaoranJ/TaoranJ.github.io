@@ -17,6 +17,10 @@ Forecasting of Scientific Publications</kbd>**\\
 and Chang-Tien Lu\\
 Proceedings of *The 35th AAAI Conference on Artificial Intelligence (AAAI),
 2021*
+* `Preprint 2020` **<kbd>Bridging the Gap between Spatial and Spectral 
+Domains: A Survey on Graph Neural Networks</kbd>**\\
+Zhiqian Chen, Fanglan Chen, Lei Zhang, <ins>Taoran Ji</ins>, Kaiqun Fu,
+Liang Zhao, Feng Chen, Chang-Tien Lu
 * `IJCAI` **<kbd>Patent Citation Dynamics Modeling via Multi-Attention
 Recurrent Networks</kbd>**\\
 <ins>Taoran Ji</ins>, Zhiqian Chen, Nathan Self, Kaiqun Fu, Chang-Tien Lu,
