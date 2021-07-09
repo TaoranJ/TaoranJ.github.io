@@ -9,6 +9,17 @@ redirect_from:
 
 I am a Ph.D. Candidate, working with [Prof. Chang-Tien Lu](http://people.cs.vt.edu/~ctlu/) in the [Discovery Analytics Center](https://dac.cs.vt.edu/) at Virginia Tech. My research covers a range of Data Mining and Machine Learning topics, including **event detection and prediction**, **social media analysis**, **spatiotemporal feature learning**, **time series modeling and prediction**. I worked on several projects which applied my research on different application scenarios, such as airport threat detection, cybersecurity event detection, impact analysis and detection of transit service disruption, citation forecasting for scientific publications, and emerging technologies predictions. My works have been published at many top conferences such as AAAI/IJCAI/CIKM. 
 
+## News
+* [Jun. 2021]: Invited to serve as a reviewer for ICLR 2022.
+* [Mar. 2021]: Invited to serve as a reviewer for NeurIPS 2021.
+* [Dec. 2020]: One paper was accepted by AAAI 2021. 
+* [Dec. 2020]: Invited to serve as a reviewer for SNAM.
+* [Jul. 2020]: Invited to serve as a reviewer for AAAI 2021.
+* [Jul. 2019]: Invited to serve as a reviewer for AAAI 2020.
+* [May. 2019]: One paper was accepted by IJCAI 2019. 
+
+
+
 ## Recent Publications
 
 * `AAAI 2021` **<kbd>Dynamic Multi-Context Attention Networks for Citation
