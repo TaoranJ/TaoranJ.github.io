@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sequential Analytics Lab</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://TaoranJ.github.io/</link>
+      <atom:link href="https://TaoranJ.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sequential Analytics Lab</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://TaoranJ.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Sequential Analytics Lab</title>
-      <link>http://localhost:1313/</link>
+      <link>https://TaoranJ.github.io/</link>
     </image>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://TaoranJ.github.io/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://TaoranJ.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One paper was accepted by ACL.</title>
-      <link>http://localhost:1313/post/acl_2024/</link>
+      <link>https://TaoranJ.github.io/post/acl_2024/</link>
       <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/acl_2024/</guid>
+      <guid>https://TaoranJ.github.io/post/acl_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One paper was accepted by NAACL.</title>
-      <link>http://localhost:1313/post/naacl_2024/</link>
+      <link>https://TaoranJ.github.io/post/naacl_2024/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/naacl_2024/</guid>
+      <guid>https://TaoranJ.github.io/post/naacl_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One paper was accepted by TKDD.</title>
-      <link>http://localhost:1313/post/tkdd_2024/</link>
+      <link>https://TaoranJ.github.io/post/tkdd_2024/</link>
       <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/tkdd_2024/</guid>
+      <guid>https://TaoranJ.github.io/post/tkdd_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abhishek Joshi</title>
-      <link>http://localhost:1313/team/abhishek_joshi/</link>
+      <link>https://TaoranJ.github.io/team/abhishek_joshi/</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/abhishek_joshi/</guid>
+      <guid>https://TaoranJ.github.io/team/abhishek_joshi/</guid>
       <description>&lt;p&gt;Master&amp;rsquo;s student in Computer Science at Texas A&amp;amp;M University-Corpus Christi.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Amit Kumar</title>
-      <link>http://localhost:1313/team/amit_kumar/</link>
+      <link>https://TaoranJ.github.io/team/amit_kumar/</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/amit_kumar/</guid>
+      <guid>https://TaoranJ.github.io/team/amit_kumar/</guid>
       <description>&lt;p&gt;Master&amp;rsquo;s student in Computer Science at Texas A&amp;amp;M University-Corpus Christi.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Bridging the Gap between Spatial and Spectral Domains: A Unified Framework for Graph Neural Network</title>
-      <link>http://localhost:1313/publication/2023_computing_survey/</link>
+      <link>https://TaoranJ.github.io/publication/2023_computing_survey/</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023_computing_survey/</guid>
+      <guid>https://TaoranJ.github.io/publication/2023_computing_survey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Multi-Context Attention Networks for Citation Forecasting of Scientific Publications</title>
-      <link>http://localhost:1313/publication/2021_aaai/</link>
+      <link>https://TaoranJ.github.io/publication/2021_aaai/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2021_aaai/</guid>
+      <guid>https://TaoranJ.github.io/publication/2021_aaai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patent Citation Dynamics Modeling via Multi-Attention Recurrent Networks</title>
-      <link>http://localhost:1313/publication/2019_ijcai/</link>
+      <link>https://TaoranJ.github.io/publication/2019_ijcai/</link>
       <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2019_ijcai/</guid>
+      <guid>https://TaoranJ.github.io/publication/2019_ijcai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crowdsourcing Cybersecurity: Cyber Attack Detection using Social Media</title>
-      <link>http://localhost:1313/publication/2017_cikm/</link>
+      <link>https://TaoranJ.github.io/publication/2017_cikm/</link>
       <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2017_cikm/</guid>
+      <guid>https://TaoranJ.github.io/publication/2017_cikm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Determining Relative Airport Threats from News and Social Media</title>
-      <link>http://localhost:1313/publication/2017_aaai/</link>
+      <link>https://TaoranJ.github.io/publication/2017_aaai/</link>
       <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2017_aaai/</guid>
+      <guid>https://TaoranJ.github.io/publication/2017_aaai/</guid>
       <description></description>
     </item>
     
