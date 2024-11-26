@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology Opportunity Discovery | Sequential Analytics Lab</title>
-    <link>https://TaoranJ.github.io/tags/technology-opportunity-discovery/</link>
-      <atom:link href="https://TaoranJ.github.io/tags/technology-opportunity-discovery/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/technology-opportunity-discovery/</link>
+      <atom:link href="http://localhost:1313/tags/technology-opportunity-discovery/index.xml" rel="self" type="application/rss+xml" />
     <description>Technology Opportunity Discovery</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://TaoranJ.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Technology Opportunity Discovery</title>
-      <link>https://TaoranJ.github.io/tags/technology-opportunity-discovery/</link>
+      <link>http://localhost:1313/tags/technology-opportunity-discovery/</link>
     </image>
     
     <item>
       <title>Dynamic Multi-Context Attention Networks for Citation Forecasting of Scientific Publications</title>
-      <link>https://TaoranJ.github.io/publication/2021_aaai/</link>
+      <link>http://localhost:1313/publication/2021_aaai/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://TaoranJ.github.io/publication/2021_aaai/</guid>
+      <guid>http://localhost:1313/publication/2021_aaai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patent Citation Dynamics Modeling via Multi-Attention Recurrent Networks</title>
-      <link>https://TaoranJ.github.io/publication/2019_ijcai/</link>
+      <link>http://localhost:1313/publication/2019_ijcai/</link>
       <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://TaoranJ.github.io/publication/2019_ijcai/</guid>
+      <guid>http://localhost:1313/publication/2019_ijcai/</guid>
       <description></description>
     </item>
     

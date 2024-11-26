@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Media | Sequential Analytics Lab</title>
-    <link>https://TaoranJ.github.io/tags/social-media/</link>
-      <atom:link href="https://TaoranJ.github.io/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/social-media/</link>
+      <atom:link href="http://localhost:1313/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     <description>Social Media</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://TaoranJ.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Social Media</title>
-      <link>https://TaoranJ.github.io/tags/social-media/</link>
+      <link>http://localhost:1313/tags/social-media/</link>
     </image>
     
     <item>
       <title>Crowdsourcing Cybersecurity: Cyber Attack Detection using Social Media</title>
-      <link>https://TaoranJ.github.io/publication/2017_cikm/</link>
+      <link>http://localhost:1313/publication/2017_cikm/</link>
       <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://TaoranJ.github.io/publication/2017_cikm/</guid>
+      <guid>http://localhost:1313/publication/2017_cikm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Determining Relative Airport Threats from News and Social Media</title>
-      <link>https://TaoranJ.github.io/publication/2017_aaai/</link>
+      <link>http://localhost:1313/publication/2017_aaai/</link>
       <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://TaoranJ.github.io/publication/2017_aaai/</guid>
+      <guid>http://localhost:1313/publication/2017_aaai/</guid>
       <description></description>
     </item>
     
