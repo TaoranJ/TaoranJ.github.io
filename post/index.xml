@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Sequential Analytics Lab</title>
-    <link>http://localhost:1313/post/</link>
-      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://TaoranJ.github.io/post/</link>
+      <atom:link href="https://TaoranJ.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://TaoranJ.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Blog</title>
-      <link>http://localhost:1313/post/</link>
+      <link>https://TaoranJ.github.io/post/</link>
     </image>
     
     <item>
       <title>One project was funded by the National Science Foundation.</title>
-      <link>http://localhost:1313/post/cise_msi_2025_2026/</link>
+      <link>https://TaoranJ.github.io/post/cise_msi_2025_2026/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/cise_msi_2025_2026/</guid>
+      <guid>https://TaoranJ.github.io/post/cise_msi_2025_2026/</guid>
       <description>&lt;p&gt;Our project, &amp;ldquo;Advancing Speech Detection: A Hybrid Approach Using Large Language Models and Graph Neural Networks,&amp;rdquo; receives $400,000 in funding from the NSF. This initiative aims to improve the detection and moderation of hate speech in multilingual contexts to create safer online communities.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>One project was funded by the National Science Foundation.</title>
-      <link>http://localhost:1313/post/eager_pbi_2024_2026/</link>
+      <link>https://TaoranJ.github.io/post/eager_pbi_2024_2026/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/eager_pbi_2024_2026/</guid>
+      <guid>https://TaoranJ.github.io/post/eager_pbi_2024_2026/</guid>
       <description>&lt;p&gt;Our study, &amp;ldquo;Collaboration Patterns and Socio-Economic Impacts Analysis in Emerging Science and Technology using Machine Learning Algorithms,&amp;rdquo; aims to understand and forecast the societal and economic impacts of emerging Scientific and Technological (S&amp;amp;T) advancements driven by Leading Organizations (LOs) and their Contributing Partners (CPs). This research received $300,000 in funding from NSF.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>One paper was accepted by ACL.</title>
-      <link>http://localhost:1313/post/acl_2024/</link>
+      <link>https://TaoranJ.github.io/post/acl_2024/</link>
       <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/acl_2024/</guid>
+      <guid>https://TaoranJ.github.io/post/acl_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One paper was accepted by NAACL.</title>
-      <link>http://localhost:1313/post/naacl_2024/</link>
+      <link>https://TaoranJ.github.io/post/naacl_2024/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/naacl_2024/</guid>
+      <guid>https://TaoranJ.github.io/post/naacl_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One paper was accepted by TKDD.</title>
-      <link>http://localhost:1313/post/tkdd_2024/</link>
+      <link>https://TaoranJ.github.io/post/tkdd_2024/</link>
       <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/tkdd_2024/</guid>
+      <guid>https://TaoranJ.github.io/post/tkdd_2024/</guid>
       <description></description>
     </item>
     
