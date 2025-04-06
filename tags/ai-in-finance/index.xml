@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI-in-Finance | Ji Lab</title>
+    <link>https://TaoranJ.github.io/tags/ai-in-finance/</link>
+      <atom:link href="https://TaoranJ.github.io/tags/ai-in-finance/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI-in-Finance</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://TaoranJ.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>AI-in-Finance</title>
+      <link>https://TaoranJ.github.io/tags/ai-in-finance/</link>
+    </image>
+    
+    <item>
+      <title>CryptoPulse: Short-Term Cryptocurrency Forecasting with Dual-Prediction and Cross-Correlated Market Indicators</title>
+      <link>https://TaoranJ.github.io/publication/2024_bigdata/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://TaoranJ.github.io/publication/2024_bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMA-LSTM: Pioneering Robust and Fair Financial Audio Analysis for Stock Volatility Prediction</title>
+      <link>https://TaoranJ.github.io/publication/2024_naacl/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://TaoranJ.github.io/publication/2024_naacl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
