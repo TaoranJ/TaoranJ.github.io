@@ -5,7 +5,7 @@
     <link>https://TaoranJ.github.io/active_project/</link>
       <atom:link href="https://TaoranJ.github.io/active_project/index.xml" rel="self" type="application/rss+xml" />
     <description>Active_projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://TaoranJ.github.io/media/icon_hu095bec021b9c89d326445e1de836e192_5148_512x512_fill_lanczos_center_3.png</url>
       <title>Active_projects</title>
@@ -13,17 +13,33 @@
     </image>
     
     <item>
-      <title>Emerging Tech Impact Project</title>
+      <title>Improving Fairness in AI-Powered Education Tools</title>
+      <link>https://TaoranJ.github.io/active_project/google_cahsi_fy2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://TaoranJ.github.io/active_project/google_cahsi_fy2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Analytics Platform for Resilient Autonomous Systems</title>
+      <link>https://TaoranJ.github.io/active_project/ari_fy2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://TaoranJ.github.io/active_project/ari_fy2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI-Driven Insights into Collaboration and Emerging Technologies</title>
       <link>https://TaoranJ.github.io/active_project/eager_pbi_2024_2026/</link>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://TaoranJ.github.io/active_project/eager_pbi_2024_2026/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sensitive Language Detection Project</title>
+      <title>Advancing Online Speech Detection and Understanding</title>
       <link>https://TaoranJ.github.io/active_project/cise_msi_2025_2026/</link>
-      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://TaoranJ.github.io/active_project/cise_msi_2025_2026/</guid>
       <description></description>
     </item>

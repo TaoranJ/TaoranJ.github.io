@@ -5,12 +5,28 @@
     <link>https://TaoranJ.github.io/post/</link>
       <atom:link href="https://TaoranJ.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://TaoranJ.github.io/media/icon_hu095bec021b9c89d326445e1de836e192_5148_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://TaoranJ.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New Project Funded by Autonomy Research Institute</title>
+      <link>https://TaoranJ.github.io/post/ari_fy2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://TaoranJ.github.io/post/ari_fy2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Project Funded by CAHSI and Google</title>
+      <link>https://TaoranJ.github.io/post/google_cahsi_fy2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://TaoranJ.github.io/post/google_cahsi_fy2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Papers accepted to IEEE BigData.</title>

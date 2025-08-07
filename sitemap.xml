@@ -2,16 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://TaoranJ.github.io/active_project/google_cahsi_fy2025/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://TaoranJ.github.io/active_project/ari_fy2025/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://TaoranJ.github.io/team/elnur_adl_zarabi/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://TaoranJ.github.io/active_project/eager_pbi_2024_2026/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://TaoranJ.github.io/active_project/cise_msi_2025_2026/</loc>
-    <lastmod>2024-07-30T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://TaoranJ.github.io/active_project/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://TaoranJ.github.io/post/ari_fy2025/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://TaoranJ.github.io/post/google_cahsi_fy2025/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://TaoranJ.github.io/post/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://TaoranJ.github.io/team/amit_kumar/</loc>
@@ -31,10 +55,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://TaoranJ.github.io/tags/llm/</loc>
-    <lastmod>2024-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://TaoranJ.github.io/post/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -60,10 +80,6 @@
   </url><url>
     <loc>https://TaoranJ.github.io/post/cise_msi_2025_2026/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://TaoranJ.github.io/active_project/</loc>
-    <lastmod>2024-07-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://TaoranJ.github.io/post/eager_pbi_2024_2026/</loc>
