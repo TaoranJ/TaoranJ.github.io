@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team | Ji Lab</title>
+    <link>http://localhost:1313/team_alumni/</link>
+      <atom:link href="http://localhost:1313/team_alumni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Team</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu095bec021b9c89d326445e1de836e192_5148_512x512_fill_lanczos_center_3.png</url>
+      <title>Team</title>
+      <link>http://localhost:1313/team_alumni/</link>
+    </image>
+    
+    <item>
+      <title>Elnur Adl Zarabi</title>
+      <link>http://localhost:1313/team_alumni/elnur_adl_zarabi/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team_alumni/elnur_adl_zarabi/</guid>
+      <description>&lt;p&gt;PhD student in Computer Science at Texas A&amp;amp;M University-Corpus Christi.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Amit Kumar</title>
+      <link>http://localhost:1313/team_alumni/amit_kumar/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team_alumni/amit_kumar/</guid>
+      <description>&lt;p&gt;Master&amp;rsquo;s student in Computer Science at Texas A&amp;amp;M University-Corpus Christi.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Abhishek Joshi</title>
+      <link>http://localhost:1313/team_alumni/abhishek_joshi/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team_alumni/abhishek_joshi/</guid>
+      <description>&lt;p&gt;Master&amp;rsquo;s student in Computer Science at Texas A&amp;amp;M University-Corpus Christi.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
