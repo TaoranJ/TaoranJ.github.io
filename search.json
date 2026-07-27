@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Taoran Ji, Ph.D.",
+    "section": "",
+    "text": "Assistant Professor - Texas A&M University-Corpus Christi  Former Director of Machine Learning - Moody’s Analytics\nDr. Taoran Ji directs a research group that bridges AI research with practical application, delivering innovative and deployable solutions for complex challenges. Supported by sponsors such as the NSF, Google, CAHSI, and the Autonomy Research Institute, his work in Large Language Models and time series analysis drives active projects across domains including cybersecurity, healthcare, and autonomous systems. Prior to his academic career, he served as Director of Machine Learning at Moody’s Analytics, where he led enterprise AI efforts in credit risk analysis.\n \n  \n   \n  \n    \n     Email\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     LinkedIn"
+  },
+  {
+    "objectID": "index.html#recent-news",
+    "href": "index.html#recent-news",
+    "title": "Taoran Ji, Ph.D.",
+    "section": "Recent News",
+    "text": "Recent News\n\nAugust 2026 | Open Positions: Recruiting one Ph.D. student and multiple undergraduate researchers to join the lab for Spring 2027.\nJuly 2026 | NSF Award: Secured funding from the National Science Foundation to pioneer generative AI solutions for automated and continuous security policy enforcement in research cyberinfrastructures.\nJune 2026 | TAMU Research Excellence: Awarded a pilot grant to develop trustworthy biomarker-driven AI frameworks for cancer grading."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Active Projects",
+    "section": "",
+    "text": "The Ji Lab bridges AI research with high-impact practical applications. Supported by federal and industry partners, our current work focuses on developing trustworthy, resilient, and highly scalable AI frameworks across diverse domains.\n(Note: To ensure accessibility for a broader audience, the project titles below have been generalized to highlight core AI methodologies rather than their official grant designations.)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredictive Modeling of Emerging Tech Impacts\n\n\nTAMUCC PI | Sponsored by NSF | 2024 – 2027\n\n\n\n\n\n\n\n\n\n\n\n\nAdvancing Semantic Analysis using Hybrid LLMs and Graph Networks\n\n\nPI | Sponsored by NSF | 2025 – 2027\n\n\n\n\n\n\n\n\n\n\n\n\nPredictive Analytics for Resilient Autonomous Systems\n\n\nPI | Sponsored by Autonomy Research Institute | 2025 – 2027\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithmic Fairness in AI-Powered Education Tools\n\n\nPI | Sponsored by CAHSI & Google | 2025 – 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAI-Powered Cancer Biomarker Analytics\n\n\nPI | Sponsored by TAMU System | 2026 – 2027\n\n\n\n\n\n\n\n\n\n\n\n\nAgentic AI for Zero-Trust System Security\n\n\nCo-PI | Sponsored by NSF | 2026 – 2028\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Courses taught in the Department of Computer Science at Texas A&M University-Corpus Christi."
+  },
+  {
+    "objectID": "teaching.html#graduate-courses",
+    "href": "teaching.html#graduate-courses",
+    "title": "Teaching",
+    "section": "Graduate Courses",
+    "text": "Graduate Courses\n\nCOSC 6354: Artificial Intelligence\n\nTopics: Machine learning, deep neural networks, search algorithms, and ethical AI.\n\nCOSC 6334: Design and Analysis of Algorithms\n\nTopics: Advanced algorithm paradigms, asymptotic complexity, and graph algorithms.\n\nCOSC 6336: Database Management Systems\n\nTopics: Relational database design, query optimization, transaction processing, and scalable storage."
+  },
+  {
+    "objectID": "teaching.html#undergraduate-courses",
+    "href": "teaching.html#undergraduate-courses",
+    "title": "Teaching",
+    "section": "Undergraduate Courses",
+    "text": "Undergraduate Courses\n\nCOSC 4343: Algorithms\n\nTopics: Core data structures, divide-and-conquer, greedy strategies, dynamic programming, and algorithm analysis.\n\nCOSC 5314: Programming II\n\nTopics: Python, object-oriented programming principles and software design basics."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Ji Lab",
+    "section": "",
+    "text": "We are a group of researchers passionate about AI, predictive analytics, and large language models."
+  },
+  {
+    "objectID": "team.html#join-us",
+    "href": "team.html#join-us",
+    "title": "Ji Lab",
+    "section": "Join Us",
+    "text": "Join Us\nCurrently, we have one open Ph.D. position and multiple open positions for undergraduate researchers to join our lab. If you are interested in AI, LLMs, or sequential data modeling, please send me an email with your CV and a brief description of your research interests."
+  },
+  {
+    "objectID": "team.html#current-members",
+    "href": "team.html#current-members",
+    "title": "Ji Lab",
+    "section": "Current Members",
+    "text": "Current Members\n\n\n\nName\nDate Joined\nStatus\n\n\n\n\nElnur Adl Zarabi\nAugust 2024\nPassed Research Prospectus\n\n\nAmit Kumar\nJune 2025\nPassed Research Prospectus"
+  },
+  {
+    "objectID": "team.html#alumni",
+    "href": "team.html#alumni",
+    "title": "Ji Lab",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n\nName\nDate Joined\nGraduation Date\n\n\n\n\n\nAbhishek Joshi\nJanuary 2024\nMay 2025"
+  }
+]
