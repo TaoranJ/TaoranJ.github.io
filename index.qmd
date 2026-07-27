@@ -1,0 +1,32 @@
+---
+title: "Taoran Ji, Ph.D."
+about:
+  id: hero-heading
+  template: jolla
+  image: imgs/avatar.png
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:taoran.ji@tamucc.edu
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=zu_n2l4AAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/taoranji
+---
+
+:::{#hero-heading}
+**Assistant Professor** - Texas A&M University-Corpus Christi <br>
+[**Former Director of Machine Learning** - Moody's Analytics]{style="color: #666; font-size: 0.95rem !important;"}
+
+Dr. Taoran Ji directs a research group that bridges AI research with practical application, delivering innovative and deployable solutions for complex challenges. Supported by sponsors such as the NSF, Google, CAHSI, and the Autonomy Research Institute, his work in Large Language Models and time series analysis drives active projects across domains including cybersecurity, healthcare, and autonomous systems. Prior to his academic career, he served as Director of Machine Learning at Moody's Analytics, where he led enterprise AI efforts in credit risk analysis.
+
+:::
+
+## Recent News
+
+* **August 2026 | Open Positions:** Recruiting one Ph.D. student and multiple undergraduate researchers to join the lab for Spring 2027.
+* **July 2026 | NSF Award:** Secured funding from the National Science Foundation to pioneer generative AI solutions for automated and continuous security policy enforcement in research cyberinfrastructures.
+* **June 2026 | TAMU Research Excellence:** Awarded a pilot grant to develop trustworthy biomarker-driven AI frameworks for cancer grading.

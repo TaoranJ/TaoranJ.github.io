@@ -1,0 +1,16 @@
+---
+title: "Active Projects"
+page-layout: full
+listing:
+  contents: projects
+  type: grid
+  grid-columns: 2
+  fields: [image, title, description]
+  sort: "date asc"
+  image-height: 210px
+  categories: true
+---
+
+The Ji Lab bridges AI research with high-impact practical applications. Supported by federal and industry partners, our current work focuses on developing trustworthy, resilient, and highly scalable AI frameworks across diverse domains.
+
+*(Note: To ensure accessibility for a broader audience, the project titles below have been generalized to highlight core AI methodologies rather than their official grant designations.)*

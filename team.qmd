@@ -1,0 +1,25 @@
+---
+title: "Ji Lab"
+---
+
+We are a group of researchers passionate about AI, predictive analytics, and large language models. 
+
+## Join Us
+Currently, we have **one open Ph.D. position** and **multiple open positions for undergraduate researchers** to join our lab. If you are interested in AI, LLMs, or sequential data modeling, please send me an email with your CV and a brief description of your research interests.
+
+## Current Members
+
+| Name | Date Joined | Status |
+| :--- | :--- | :--- |
+| [**Elnur Adl Zarabi**](https://www.linkedin.com/in/elnur-adl-zarabi/) | August 2024 | Passed Research Prospectus |
+| [**Amit Kumar**](https://www.linkedin.com/in/amit-kumar-195568132/) | June 2025 | Passed Research Prospectus |
+
+---
+
+## Alumni
+
+| Name | Date Joined | Graduation Date |
+| :--- | :--- | :--- | :--- |
+| **Abhishek Joshi** | January 2024 | May 2025 |
+
+---

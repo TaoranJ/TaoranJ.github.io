@@ -1,0 +1,26 @@
+---
+title: "Teaching"
+---
+
+Courses taught in the Department of Computer Science at Texas A&M University-Corpus Christi.
+
+## Graduate Courses
+
+* **COSC 6354: Artificial Intelligence**
+  * *Topics:* Machine learning, deep neural networks, search algorithms, and ethical AI.
+
+* **COSC 6334: Design and Analysis of Algorithms**
+  * *Topics:* Advanced algorithm paradigms, asymptotic complexity, and graph algorithms.
+
+* **COSC 6336: Database Management Systems**
+  * *Topics:* Relational database design, query optimization, transaction processing, and scalable storage.
+
+---
+
+## Undergraduate Courses
+
+* **COSC 4343: Algorithms**
+  * *Topics:* Core data structures, divide-and-conquer, greedy strategies, dynamic programming, and algorithm analysis.
+
+* **COSC 5314: Programming II**
+  * *Topics:* Python, object-oriented programming principles and software design basics.

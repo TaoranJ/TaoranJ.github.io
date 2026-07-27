@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs # Standard for GitHub Pages hosting
+
+website:
+  title: "Ji Lab"
+  search: false
+  description: "Assistant Professor of Computer Science at Texas A&M University-Corpus Christi"
+  navbar:
+    background: light
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Team
+        href: team.qmd
+      - text: Teaching
+        href: teaching.qmd
+    right: []
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
