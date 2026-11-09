@@ -27,6 +27,6 @@ Dr. Taoran Ji directs a research group that bridges AI research with practical a
 
 ## Recent News
 
-* **August 2026 | Open Positions:** Recruiting one Ph.D. student and multiple undergraduate researchers to join the lab for Spring 2027.
+* **October 2026:** Congrats to Amit and Elnur on their accepted papers at BigData 2026!
 * **July 2026 | NSF Award:** Secured funding from the National Science Foundation to pioneer generative AI solutions for automated and continuous security policy enforcement in research cyberinfrastructures.
 * **June 2026 | TAMU Research Excellence:** Awarded a pilot grant to develop trustworthy biomarker-driven AI frameworks for cancer grading.

@@ -4,16 +4,6 @@ title: "Ji Lab"
 
 We are a group of researchers passionate about AI, predictive analytics, and large language models. 
 
-## Join Us
-We are currently looking for a fully funded Ph.D. student starting in Spring 2027, as well as motivated undergraduate researchers to join our lab. 
-
-If you are interested in joining our team, please send an email to taoran.ji@tamucc.edu with:
-
-1. Your updated CV
-2. A brief note indicating which specific project(s) or research areas in our lab interest you
-
-*Note: Due to the high volume of inquiries, we are unable to respond to every individual email, but all eligible applications will be reviewed.*
-
 ## Current Members
 
 | Name | Date Joined | Status |
